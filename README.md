@@ -1,4 +1,5 @@
-![image](https://github.com/Faiz-Ahmed08/Faiz-Ahmed08/assets/152106688/c633b2e4-db1b-405f-8545-7e9f4f10deda) 
+
+![GitHub_cover_2024_Add](https://github.com/Faiz-Ahmed08/Faiz-Ahmed08/assets/152106688/954688e4-aa07-43d2-b2b6-b69255954a80)
 
 **Test Automation Developer's Paradise 🚀
 Welcome to the realm of cutting-edge Test Automation, where precision meets innovation!** 🌐
