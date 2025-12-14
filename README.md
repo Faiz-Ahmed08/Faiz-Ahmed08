@@ -7,7 +7,7 @@ Welcome to the realm of cutting-edge Test Automation, where precision meets inno
 **Meet Your Guide**: **Faiz Ahmed**
 👋 Greetings, fellow automation enthusiast! I am **Faiz Ahmed**, your companion in the journey of mastering Test Automation. With a passion for quality assurance and an unwavering commitment to automation excellence, I've curated this repository as a haven for all things test automation.
 
-✨With over 9 years of expertise in QA Test Automation, Faiz Ahmed brings a wealth of experience certified as an **ISTQB® Test Automation Engineer, ISTQB® Test Manager, and ISTQB® Agile Tester**. He thrives in dynamic agile environments, collaborating seamlessly within teams dedicated to the development of intricate insurance systems.I am a Senior Test Automation Developer at AFRY Sweden.
+✨With over 10 years of expertise in QA Test Automation, Faiz Ahmed brings a wealth of experience certified as an **ISTQB® Test Automation Engineer, ISTQB® Test Manager, and ISTQB® Agile Tester**. He thrives in dynamic agile environments, collaborating seamlessly within teams dedicated to the development of intricate insurance systems.I am a Senior Test Automation Developer at AFRY Sweden.
 
 Faiz is well-versed in cutting-edge technologies, demonstrating proficiency in Allure reporting and seamless DevOps integration. His adeptness extends to test integration using an array of tools including Jenkins, Jira, and QTest. His repertoire includes successfully contributing to data migration projects such as ETL Automation Testing, showcasing competence in JMS Request and Apache Kafka implementations.
 
